@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Pattern2{
+class ReverseNumberSquare{
     public static void main(String[] args) {
         // for(int row=1; row<=5; row++){
         //     for(int col=5; col>=1; col--){

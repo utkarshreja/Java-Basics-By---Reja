@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Pattern3{
+class HalfStarTriangle{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows and columns u need : ");
